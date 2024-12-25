@@ -1,3 +1,3 @@
 # Programs
-This My First Repository
+This My First Git Repository
 Author - Feroz Ali
